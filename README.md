@@ -1,4 +1,4 @@
-# memory
+# Simple matching game in vue
 
 ## Project setup
 ```
@@ -9,5 +9,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Simple matching game in vue
